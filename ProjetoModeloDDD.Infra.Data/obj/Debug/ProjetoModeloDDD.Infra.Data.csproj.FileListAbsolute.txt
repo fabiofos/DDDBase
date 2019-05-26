@@ -1,0 +1,14 @@
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

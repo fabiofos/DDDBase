@@ -1,0 +1,6 @@
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\Fabio\Documents\Projectos Estudo\Curso C# Eduardo Pires Exercicios\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
